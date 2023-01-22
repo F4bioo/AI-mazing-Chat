@@ -11,16 +11,6 @@
           <path id="Path_3" data-name="Path 3" d="M.548.65C125,.4,622.4-.26,746.81-.51M-.5-.05c124.318.42,622.074.79,746.587.8" transform="translate(0.5 0.51)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
         </g>
       </g>
-      <g id="Group_5" data-name="Group 5" transform="translate(10.52 189.109)">
-        <g id="Group_4" data-name="Group 4">
-          <path id="Path_4" data-name="Path 4" d="M.31-.51c66.24-.25,331.41-.54,397.73-.33M-.98-1.83C65.09-2.01,330.9.16,397.38.25" transform="translate(0.98 1.841)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
-        </g>
-      </g>
-      <g id="Group_7" data-name="Group 7" transform="translate(10.972 187.697)">
-        <g id="Group_6" data-name="Group 6">
-          <path id="Path_5" data-name="Path 5" d="M.54-.84C66.86-.64,332.16.68,398.24.71M-.63,1.33c66.2-.1,332.21-2.19,398.31-2.37" transform="translate(0.63 1.04)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
-        </g>
-      </g>
       <g id="Group_8" data-name="Group 8" transform="translate(118.005 127.439)">
         <text id="Chat" transform="translate(0 39)" fill="#fff" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Chat</tspan></text>
       </g>
@@ -166,6 +156,14 @@
       <g id="Group_50" data-name="Group 50" transform="translate(309.72 6)">
         <text id="Messages" transform="translate(78 39)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-77.66" y="0">Messages</tspan></text>
       </g>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(-460 -247)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="375" height="7" stroke="none"/>
+      <rect x="0.5" y="0.5" width="374" height="6" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(-1609 -247)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="375" height="7" stroke="none"/>
+      <rect x="0.5" y="0.5" width="374" height="6" fill="none"/>
     </g>
   </g>
 </svg>
